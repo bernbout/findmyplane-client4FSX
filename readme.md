@@ -17,6 +17,7 @@ This is what you need to download and run on the computer running the simulator.
 2. Open a cmd prompt from the findmyplane-client directory and type: python findmyplane-client.pyw or execute the file findmyplane-client.exe from the /dist folder.
 
 3. Once the client has connected to your simulator and the server it will provide you with a link and five digit ident code such as ABCDE
+
 ![](server.jpg)
 
 4. Copy and paste this link to a browser OR
