@@ -20,9 +20,9 @@ This is what you need to download and run on the computer running the simulator.
 
 ![](server.jpg)
 
-4. Copy and paste this link to a browser OR
+4. Copy and paste this link to a browser OR Double click the link to open in your default browser OR
 
-5. Visit https://findmyplane.live and enter the code
+5. Visit https://findmyplane.live and enter the code. 
 
 6. Your plane location will be displayed
 
