@@ -25,7 +25,7 @@ This is what you need to download and run on the computer running the simulator.
 5. Visit https://findmyplane.live and enter the code. 
 
 6. Your plane location will be displayed
-
+![](fmp.jpg)
 ## Supported devices
 
 Microsoft Flight Simulator X only runs on Windows. The client should run on the same Windows computer that your simulator is running on.
